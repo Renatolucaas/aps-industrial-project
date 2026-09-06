@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IndustrialAPS.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d3587cf657b68e1466bec91527b3a5486f896f")]
 [assembly: System.Reflection.AssemblyProductAttribute("IndustrialAPS.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IndustrialAPS.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
