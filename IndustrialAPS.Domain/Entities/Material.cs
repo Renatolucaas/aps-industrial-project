@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IndustrialAPS.Domain.Entities
+﻿namespace IndustrialAPS.Domain.Entities
 {
-    internal class Class1
+    public class Material
     {
+        public int Id { get; set; }
+        public string Code { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
+        public string Unit { get; set; } = string.Empty;
+        public decimal Stock { get; set; }
+
+        public ICollection<BOMItem> BOMItems { get; set; } = new List<BOMItem>();
     }
 }
