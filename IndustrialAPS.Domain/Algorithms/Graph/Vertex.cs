@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IndustrialAPS.Domain.Algorithms
+namespace IndustrialAPS.Domain.Algorithms.Graph
 {
-    internal class BOMTreeNode
+    internal class Vertex
     {
     }
 }
