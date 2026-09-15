@@ -1,7 +1,7 @@
 const Dashboard = () => {
   return (
     <div className="container mt-4">
-      <h1>Dashboard</h1>
+      <h1>Painel</h1>
       <p>Bem-vindo ao Industrial APS!</p>
       <div className="row">
         <div className="col-md-4">
