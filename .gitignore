@@ -1,3 +1,8 @@
 .vs/
 bin/
 obj/
+.vs/
+bin/
+obj/
+*.user
+node_modules/

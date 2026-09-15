@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IndustrialAPS.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73301aa654bbcc24c4cf2e1329e52eb9ed18996b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07fcbaba95c58ccfda0cebd4835c2d6bd0b7fab2")]
 [assembly: System.Reflection.AssemblyProductAttribute("IndustrialAPS.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IndustrialAPS.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

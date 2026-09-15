@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "C:\\ProjetosCsharp\\IndustrialAPS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB5A8F77-3B8F-360B-062A-D4D9EAF6077B}|IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5A8F77-3B8F-360B-062A-D4D9EAF6077B}|IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj|solutionrelative:industrialaps.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\industrialaps.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\industrialaps.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5A8F77-3B8F-360B-062A-D4D9EAF6077B}|IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.infrastructure\\industrialaps.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB5A8F77-3B8F-360B-062A-D4D9EAF6077B}|IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj|solutionrelative:industrialaps.infrastructure\\industrialaps.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\controllers\\bomitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\controllers\\bomitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\dtos\\bomitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\dtos\\bomitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\controllers\\planningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\controllers\\planningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\services\\bomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\services\\bomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\industrialaps.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\industrialaps.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\algorithms\\graph\\graphalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\algorithms\\graph\\graphalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\algorithms\\graph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\algorithms\\graph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\algorithms\\graph\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\algorithms\\graph\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\algorithms\\graph\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\algorithms\\graph\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\algorithms\\tree\\bomtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\algorithms\\tree\\bomtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\algorithms\\tree\\bomtreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\algorithms\\tree\\bomtreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\controllers\\machineoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\controllers\\machineoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\dtos\\class.csoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\dtos\\class.csoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\industrialaps.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\industrialaps.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\controllers\\planningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\controllers\\planningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,15 +111,7 @@
       "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\controllers\\machineconnectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.api\\controllers\\bomitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2660644-75CD-9182-B0E3-26C641C6DA26}|IndustrialAPS.API\\IndustrialAPS.API.csproj|solutionrelative:industrialaps.api\\controllers\\bomitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IndustrialAPSDb/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\industrialaps.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|solutionrelative:industrialaps.domain\\industrialaps.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B4017B3-DCB6-ED3D-928F-1E571FC3BFAF}|IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj|c:\\projetoscsharp\\industrialaps\\industrialaps.domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,24 +153,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MachineOperationDto.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T00:30:24.84Z",
-              "EditorCaption": ""
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\global.json",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\global.json",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\global.json",
+              "RelativeToolTip": "IndustrialAPS.API\\global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-14T03:50:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndustrialAPS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj",
+              "RelativeToolTip": "IndustrialAPS.Infrastructure\\IndustrialAPS.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T03:46:52.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IndustrialAPS.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:44:45.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Program.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Program.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Program.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:36:02.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BOMService.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Services\\BOMService.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Services\\BOMService.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Services\\BOMService.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Services\\BOMService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:28:24.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GraphAlgorithms.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\GraphAlgorithms.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Algorithms\\Graph\\GraphAlgorithms.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\GraphAlgorithms.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Algorithms\\Graph\\GraphAlgorithms.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:24:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\Graph.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Algorithms\\Graph\\Graph.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\Graph.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Algorithms\\Graph\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:21:02.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\Edge.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Algorithms\\Graph\\Edge.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\Edge.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Algorithms\\Graph\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:19:37.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\Vertex.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Algorithms\\Graph\\Vertex.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Graph\\Vertex.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Algorithms\\Graph\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:17:14.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BOMTree.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTree.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTree.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTree.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTree.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:04:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MachineOperationsController.cs",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachineOperationsController.cs",
               "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MachineOperationsController.cs",
@@ -126,139 +298,11 @@
               "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MachineOperationsController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAmwHcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T00:25:05.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OperationResponseDto.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T00:18:22.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T00:25:05.551Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OperationsController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\OperationsController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\OperationsController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\OperationsController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\OperationsController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAcwJQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T00:12:18.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class.csOperationDto.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T23:58:35.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlanningController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\PlanningController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\PlanningController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\PlanningController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\PlanningController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAiwHgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T23:33:21.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MachineConnectionsController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T23:14:04.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BOMItemsController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAiwGoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T22:46:56.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dbo.Products [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IndustrialAPSDb/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "dbo.Products [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-13T22:23:26.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductionOrdersController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T21:42:59.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MaterialsController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MaterialsController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MaterialsController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MaterialsController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MaterialsController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T21:25:50.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MachinesController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachinesController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MachinesController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachinesController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MachinesController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T21:02:59.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "IndustrialAPS.API.csproj",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\IndustrialAPS.API.csproj",
               "RelativeDocumentMoniker": "IndustrialAPS.API\\IndustrialAPS.API.csproj",
@@ -266,77 +310,107 @@
               "RelativeToolTip": "IndustrialAPS.API\\IndustrialAPS.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T14:28:20.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T14:28:20.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SchedulesController.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\SchedulesController.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\SchedulesController.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\SchedulesController.cs",
-              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\SchedulesController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAA8wGwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BOMItemDto.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\BOMItemDto.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\BOMItemDto.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\BOMItemDto.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\BOMItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T23:31:18.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MachineConnection.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
-              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T18:38:31.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Machine.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Machine.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Machine.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Machine.cs",
-              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Machine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T18:33:07.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Material.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Material.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Material.cs",
-              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T18:29:32.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T03:40:14.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "OperationResponseDto.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\OperationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T16:23:36.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T00:18:22.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
+              "Title": "BOMItemsController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\BOMItemsController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T22:46:56.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OperationsController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\OperationsController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\OperationsController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\OperationsController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\OperationsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T00:12:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphService.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Services\\GraphService.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Services\\GraphService.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Services\\GraphService.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Services\\GraphService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:30:23.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlanningController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\PlanningController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\PlanningController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\PlanningController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\PlanningController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:33:21.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BOMTreeNode.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTreeNode.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTreeNode.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTreeNode.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Algorithms\\Tree\\BOMTreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:01:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class.csOperationDto.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\Class.csOperationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:58:35.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IndustrialAPS.Domain.csproj",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj",
               "RelativeDocumentMoniker": "IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj",
@@ -344,12 +418,140 @@
               "RelativeToolTip": "IndustrialAPS.Domain\\IndustrialAPS.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-06T16:20:59.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T16:20:59.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
+              "Title": "MachineConnectionsController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MachineConnectionsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:14:04.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IndustrialAPSDb/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IndustrialAPSDb/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-13T22:23:26.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MachineOperationDto.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\DTOs\\MachineOperationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T00:30:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductionOrdersController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\ProductionOrdersController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T21:42:59.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MaterialsController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MaterialsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T21:25:50.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MachinesController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachinesController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\MachinesController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\MachinesController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\MachinesController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T21:02:59.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.API\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.API\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "IndustrialAPS.API\\Controllers\\SchedulesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA8wGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:31:18.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MachineConnection.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\MachineConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:38:31.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Machine.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Machine.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Machine.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:33:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Material.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Material.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Material.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:29:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T16:23:36.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Operation.cs",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Operation.cs",
               "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Operation.cs",
@@ -357,12 +559,11 @@
               "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Operation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T18:39:27.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T18:39:27.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "MachineOperation.cs",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\MachineOperation.cs",
               "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\MachineOperation.cs",
@@ -370,12 +571,11 @@
               "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\MachineOperation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T18:40:04.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T18:40:04.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "ProductionOrder.cs",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\ProductionOrder.cs",
               "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\ProductionOrder.cs",
@@ -383,12 +583,11 @@
               "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\ProductionOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T19:04:34.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T19:04:34.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "Schedule.cs",
               "DocumentMoniker": "C:\\ProjetosCsharp\\IndustrialAPS\\IndustrialAPS.Domain\\Entities\\Schedule.cs",
               "RelativeDocumentMoniker": "IndustrialAPS.Domain\\Entities\\Schedule.cs",
@@ -396,8 +595,7 @@
               "RelativeToolTip": "IndustrialAPS.Domain\\Entities\\Schedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T19:05:17.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T19:05:17.539Z"
             }
           ]
         }

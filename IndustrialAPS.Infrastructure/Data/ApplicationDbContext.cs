@@ -40,11 +40,11 @@ namespace IndustrialAPS.Infrastructure.Data
 
             modelBuilder.Entity<MachineConnection>()
                 .HasOne(mc => mc.ToMachine)
-                .WithMany() // Não há navegação inversa para "ToMachine"
+                .WithMany()
                 .HasForeignKey(mc => mc.ToMachineId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            // 2. 🔽 Configuração para evitar múltiplos caminhos em cascata na tabela Schedules
+            // 2. Configuração para evitar múltiplos caminhos em cascata na tabela Schedules
             modelBuilder.Entity<Schedule>()
                 .HasOne(s => s.Order)
                 .WithMany(o => o.Schedules)
@@ -61,6 +61,13 @@ namespace IndustrialAPS.Infrastructure.Data
                 .HasOne(s => s.Machine)
                 .WithMany(m => m.Schedules)
                 .HasForeignKey(s => s.MachineId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // 🔽 NOVO: Configuração do relacionamento BOMItem -> Material
+            modelBuilder.Entity<BOMItem>()
+                .HasOne(b => b.Material)
+                .WithMany(m => m.BOMItems)
+                .HasForeignKey(b => b.ComponentId)
                 .OnDelete(DeleteBehavior.Restrict);
         }
     }

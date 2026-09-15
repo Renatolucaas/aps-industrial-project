@@ -1,4 +1,5 @@
-﻿using IndustrialAPS.Domain.Entities;
+﻿using IndustrialAPS.API.DTOs;
+using IndustrialAPS.Domain.Entities;
 using IndustrialAPS.Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -18,22 +19,37 @@ namespace IndustrialAPS.API.Controllers
 
         // GET: api/bomitems
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<BOMItem>>> GetBOMItems()
+        public async Task<ActionResult<IEnumerable<object>>> GetBOMItems()
         {
             return await _context.BOMItems
-                .Include(b => b.Product)
-                .Include(b => b.Material)
+                .Select(b => new
+                {
+                    b.Id,
+                    b.ProductId,
+                    ProductName = b.Product.Name,
+                    b.ComponentId,
+                    MaterialName = b.Material.Name,
+                    b.Quantity
+                })
                 .ToListAsync();
         }
 
         // GET: api/bomitems/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<BOMItem>> GetBOMItem(int id)
+        public async Task<ActionResult<object>> GetBOMItem(int id)
         {
             var bomItem = await _context.BOMItems
-                .Include(b => b.Product)
-                .Include(b => b.Material)
-                .FirstOrDefaultAsync(b => b.Id == id);
+                .Where(b => b.Id == id)
+                .Select(b => new
+                {
+                    b.Id,
+                    b.ProductId,
+                    ProductName = b.Product.Name,
+                    b.ComponentId,
+                    MaterialName = b.Material.Name,
+                    b.Quantity
+                })
+                .FirstOrDefaultAsync();
 
             if (bomItem == null)
             {
@@ -45,42 +61,40 @@ namespace IndustrialAPS.API.Controllers
 
         // POST: api/bomitems
         [HttpPost]
-        public async Task<ActionResult<BOMItem>> PostBOMItem(BOMItem bomItem)
+        public async Task<IActionResult> PostBOMItem(BOMItemDto dto)
         {
+            // Verificar se o produto existe
+            var product = await _context.Products.FindAsync(dto.ProductId);
+            if (product == null)
+            {
+                return BadRequest($"Produto com ID {dto.ProductId} não encontrado.");
+            }
+
+            // Verificar se o material existe
+            var material = await _context.Materials.FindAsync(dto.ComponentId);
+            if (material == null)
+            {
+                return BadRequest($"Material com ID {dto.ComponentId} não encontrado.");
+            }
+
+            var bomItem = new BOMItem
+            {
+                ProductId = dto.ProductId,
+                ComponentId = dto.ComponentId,
+                Quantity = dto.Quantity
+            };
+
             _context.BOMItems.Add(bomItem);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction(nameof(GetBOMItem), new { id = bomItem.Id }, bomItem);
-        }
-
-        // PUT: api/bomitems/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutBOMItem(int id, BOMItem bomItem)
-        {
-            if (id != bomItem.Id)
+            return Ok(new
             {
-                return BadRequest();
-            }
-
-            _context.Entry(bomItem).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!BOMItemExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
+                Message = "BOMItem criado com sucesso!",
+                bomItem.Id,
+                bomItem.ProductId,
+                bomItem.ComponentId,
+                bomItem.Quantity
+            });
         }
 
         // DELETE: api/bomitems/5

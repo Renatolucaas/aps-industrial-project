@@ -1,3 +1,4 @@
+using IndustrialAPS.Domain.Services;  // 🔽 NOVO
 using IndustrialAPS.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,6 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// 🔽 REGISTRA OS SERVIÇOS DE DOMÍNIO
+builder.Services.AddScoped<BOMService>();
+builder.Services.AddScoped<GraphService>();
 
 // Configura o DbContext com a string de conexão
 builder.Services.AddDbContext<ApplicationDbContext>(options =>

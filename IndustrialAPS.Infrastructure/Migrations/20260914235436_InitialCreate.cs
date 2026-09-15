@@ -93,18 +93,17 @@ namespace IndustrialAPS.Infrastructure.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     ProductId = table.Column<int>(type: "int", nullable: false),
                     ComponentId = table.Column<int>(type: "int", nullable: false),
-                    Quantity = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
-                    MaterialId = table.Column<int>(type: "int", nullable: false)
+                    Quantity = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_BOMItems", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_BOMItems_Materials_MaterialId",
-                        column: x => x.MaterialId,
+                        name: "FK_BOMItems_Materials_ComponentId",
+                        column: x => x.ComponentId,
                         principalTable: "Materials",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_BOMItems_Products_ProductId",
                         column: x => x.ProductId,
@@ -216,9 +215,9 @@ namespace IndustrialAPS.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_BOMItems_MaterialId",
+                name: "IX_BOMItems_ComponentId",
                 table: "BOMItems",
-                column: "MaterialId");
+                column: "ComponentId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_BOMItems_ProductId",

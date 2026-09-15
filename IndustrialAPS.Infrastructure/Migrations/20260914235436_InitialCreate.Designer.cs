@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IndustrialAPS.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260907145604_InitialCreate")]
+    [Migration("20260914235436_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -36,9 +36,6 @@ namespace IndustrialAPS.Infrastructure.Migrations
                     b.Property<int>("ComponentId")
                         .HasColumnType("int");
 
-                    b.Property<int>("MaterialId")
-                        .HasColumnType("int");
-
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
 
@@ -47,7 +44,7 @@ namespace IndustrialAPS.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("MaterialId");
+                    b.HasIndex("ComponentId");
 
                     b.HasIndex("ProductId");
 
@@ -264,8 +261,8 @@ namespace IndustrialAPS.Infrastructure.Migrations
                 {
                     b.HasOne("IndustrialAPS.Domain.Entities.Material", "Material")
                         .WithMany("BOMItems")
-                        .HasForeignKey("MaterialId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .HasForeignKey("ComponentId")
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("IndustrialAPS.Domain.Entities.Product", "Product")

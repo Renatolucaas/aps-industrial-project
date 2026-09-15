@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IndustrialAPS.Domain.Algorithms.Graph
+﻿namespace IndustrialAPS.Domain.Algorithms.Graph
 {
-    internal class Edge
+    public class Edge
     {
+        public Vertex Source { get; set; }
+        public Vertex Destination { get; set; }
+        public decimal Weight { get; set; } // Distância, tempo ou custo
+
+        public Edge(Vertex source, Vertex destination, decimal weight)
+        {
+            Source = source;
+            Destination = destination;
+            Weight = weight;
+        }
     }
 }
